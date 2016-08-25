@@ -1,3 +1,4 @@
 say "hello"
 say "goodbye"
 say "no"
+say "yes"
